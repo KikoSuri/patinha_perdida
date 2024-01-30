@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246474481860",
+    "project_id": "acesso-firebase-b5589",
+    "storage_bucket": "acesso-firebase-b5589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246474481860:android:d3c796ef6b63505518a991",
+        "android_client_info": {
+          "package_name": "br.edu.ifpr.acesso_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEhDdCsBS6_IzA_NM3RKvKbpBzyCCOQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246474481860:android:0670f99925bafe1418a991",
+        "android_client_info": {
+          "package_name": "com.example.patinha_perdida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEhDdCsBS6_IzA_NM3RKvKbpBzyCCOQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
