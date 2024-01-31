@@ -7,7 +7,7 @@ AppBar header(context,
   return AppBar(
     automaticallyImplyLeading: removeBackButton ? false : true,
     title: Text(
-      isAppTitle ? "LostPet" : titleText,
+      isAppTitle ? "Patinha perdida" : titleText,
       style: TextStyle(
         color: Colors.black,
         fontFamily: isAppTitle ? "Inter" : "",
